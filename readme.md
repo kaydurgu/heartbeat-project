@@ -10,8 +10,8 @@ Project to display your heartbeat. Done with oled display and pulsesensor.
 ![Cover](Images/case_covver.png)
 ![Assembly](Images/assembly.png)
 
-(link to youtube if you have)[https://youtube.com]
-(link to thingiverse if you have)[https://thingiverse.com]
+[link to youtube if you have](https://youtube.com)
+[link to thingiverse if you have](https://thingiverse.com)
 
 # Part List
 
